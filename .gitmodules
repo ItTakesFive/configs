@@ -1,0 +1,21 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/gpakosz/.tmux
+[submodule "vimrc"]
+	path = vimrc
+	url = https://github.com/amix/vimrc
+[submodule "plugins/YouCompleteMe"]
+	path = plugins/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "plugins/vim-easy-align"]
+	path = plugins/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
+[submodule "plugins/vim-easymotion"]
+	path = plugins/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "plugins/auto-pairs"]
+	path = plugins/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "plugins/vim-airline"]
+	path = plugins/vim-airline
+	url = https://github.com/vim-airline/vim-airline
