@@ -4,6 +4,7 @@
 [submodule "vimrc"]
 	path = vimrc
 	url = https://github.com/amix/vimrc
+    ignore = untracked
 [submodule "plugins/YouCompleteMe"]
 	path = plugins/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
