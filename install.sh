@@ -18,7 +18,7 @@ fi
 
 ln -s $(pwd)/vimrc ${TARGET}/.vim_runtime
 ln -s $(pwd)/tmux/.tmux.conf ${TARGET}/
-cp -f $(pwd)/tmux/.tmux.conf.local ${TARGET}/
+cp .tmux.conf.local ${TARGET}/
 
 if [ ! -e vimrc/my_configs.vim/my_configs.vim ]; then
     cd vimrc
