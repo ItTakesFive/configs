@@ -21,6 +21,9 @@ imap jk <Esc>
 " Press `Ctrl + M` to add new line
 nmap <C-m> i<Enter><Esc>
 
+" OS X clipboard sharing
+set clipboard=unnamed
+
 """"""""""""""""""""""""""""""
 " => Plugin setting
 """"""""""""""""""""""""""""""
